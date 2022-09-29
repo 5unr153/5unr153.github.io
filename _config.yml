@@ -34,13 +34,13 @@ url: 'https://5unr153.github.io'
 github:
   username: 5unr153             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+#twitter:
+#  username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Sun_Rise
   email: sun_rise@414d.tk             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/114688577?s=400&v=4
 
 # boolean type, the global switch for ToC in posts.
 toc: true
